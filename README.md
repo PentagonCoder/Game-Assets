@@ -4,8 +4,8 @@
 
 ## Demo videos
 
-![Camera demo 1](/src/assets/camera-demo-1.gif)
-![Camera demo 1](/src/assets/camera-demo-2.gif)
+![Camera demo 1](/src/assets/Video%20Project%20(1).gif)
+![Camera demo 1](/src/assets/Video%20Project%20(2).gif)
 
 
 **Highlights**
