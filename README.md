@@ -4,29 +4,22 @@
 
 ## Demo videos
 
-Below are the two demo videos you added. They are embedded so reviewers can play them directly from the repository view in supporting viewers.
+Below are the two demo GIFs converted from the MP4s. Click an image to open the full-size GIF or use the download links.
 
 ### Camera demo 1
-<video controls width="640">
-	<source src="src/assets/Video Project (1).mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
 
-[Download camera-demo-1](src/assets/Video%20Project%20(1).mp4)
+![Camera demo 1](media/camera-demo-1.gif)
+
+[Download GIF (camera-demo-1.gif)](media/camera-demo-1.gif) · [Original MP4](src/assets/Video%20Project%20(1).mp4)
 
 ### Camera demo 2
-<video controls width="640">
-	<source src="src/assets/Video Project (2).mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
 
-[Download camera-demo-2](src/assets/Video%20Project%20(2).mp4)
+![Camera demo 2](media/camera-demo-2.gif)
 
-If you want, I can convert these to optimized GIFs and embed them instead — I can do that here if `ffmpeg` is installed, or you can run the conversion locally and I will embed the results.
+[Download GIF (camera-demo-2.gif)](media/camera-demo-2.gif) · [Original MP4](src/assets/Video%20Project%20(2).mp4)
 
-If you'd like the GIFs, say "convert" and I will attempt installation or provide exact commands to run locally.
-
-This folder contains a ready-to-use, minimal game camera setup for small 2D/3D React games (Vite). It's designed so anyone can copy or import the components and start with a working follow-camera quickly.
+These GIFs were generated from your uploaded MP4s using `ffmpeg` and saved to `media/`.
+This folder contains a ready-to-use, minimal game camera setup for small 3D React games (Vite). It's designed so anyone can copy or import the components and start with a working follow-camera quickly.
 
 **Highlights**
 - Minimal, well-commented camera logic.
