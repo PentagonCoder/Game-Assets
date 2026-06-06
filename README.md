@@ -8,11 +8,11 @@
 
 ### Camera demo 1
 
-![Camera demo 1](media/camera-demo-1.gif)
+![Camera demo 1](/src/assets/camera-demo-1.gif)
 
 ### Camera demo 2
 
-![Camera demo 2](media/camera-demo-2.gif)
+![Camera demo 1](/src/assets/camera-demo-2.gif)
 
 
 
