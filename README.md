@@ -77,28 +77,4 @@ This project is provided as-is. Add your preferred license at the repository roo
 
 ---
 
-## Demo videos
 
-Below are the two demo videos you added. They are embedded so reviewers can play them directly from the repository view in supporting viewers.
-
-### Camera demo 1
-<video controls width="640">
-	<source src="src/assets/Video Project (1).mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
-
-[Download camera-demo-1](src/assets/Video%20Project%20(1).mp4)
-
-### Camera demo 2
-<video controls width="640">
-	<source src="src/assets/Video Project (2).mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
-
-[Download camera-demo-2](src/assets/Video%20Project%20(2).mp4)
-
-If you want, I can convert these to optimized GIFs and embed them instead — I can do that here if `ffmpeg` is installed, or you can run the conversion locally and I will embed the results.
-
-If you'd like the GIFs, say "convert" and I will attempt installation or provide exact commands to run locally.
-
-If you want, I can also add a short demo GIF, a dedicated example page, or a small config UI to tweak camera parameters at runtime — tell me which and I'll add it.
